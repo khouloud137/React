@@ -1,0 +1,16 @@
+
+.main h4 {
+  margin-top: 50px;
+  margin-bottom: 5%;
+  font-size: 2em;
+  box-shadow: 5px 10px #888888;
+  text-align: center;
+}
+.cards {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  width: 30%;
+}
